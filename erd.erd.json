@@ -43,7 +43,7 @@
       "4ylEqbuUiuP5AqzhhdHFs": {
         "id": "4ylEqbuUiuP5AqzhhdHFs",
         "name": "Product",
-        "comment": "Productos",
+        "comment": "ICore",
         "columnIds": [
           "2s4bRO1Z1rFcVKDA6uRVN",
           "-13mzBusIABRUioOrG7Nr",
@@ -63,15 +63,15 @@
           "5GFO0MsevUVZFAfW52ORt"
         ],
         "ui": {
-          "x": 157,
-          "y": 108,
+          "x": 68,
+          "y": 71,
           "zIndex": 2,
           "widthName": 60,
           "widthComment": 60,
           "color": ""
         },
         "meta": {
-          "updateAt": 1733970008188,
+          "updateAt": 1733970081397,
           "createAt": 1733966454532
         }
       },
@@ -112,7 +112,7 @@
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1733969867339,
+          "updateAt": 1733969867337,
           "createAt": 1733966465109
         }
       },
@@ -132,7 +132,7 @@
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1733969877717,
+          "updateAt": 1733969877707,
           "createAt": 1733966498821
         }
       },
@@ -152,8 +152,8 @@
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1733969884415,
-          "createAt": 1733969847610
+          "updateAt": 1733969884409,
+          "createAt": 1733969847587
         }
       },
       "9az_lBotlRUkqOjZ925by": {
@@ -172,8 +172,8 @@
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1733969898958,
-          "createAt": 1733969886190
+          "updateAt": 1733969898948,
+          "createAt": 1733969886170
         }
       },
       "FZ7d1VMms-FyGOujWbqHp": {
@@ -192,8 +192,8 @@
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1733969985913,
-          "createAt": 1733969955268
+          "updateAt": 1733969985903,
+          "createAt": 1733969955244
         }
       },
       "9w5_TDmPAGzmC8zCxSKCj": {
@@ -212,8 +212,8 @@
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1733970006282,
-          "createAt": 1733969998783
+          "updateAt": 1733970006272,
+          "createAt": 1733969998766
         }
       },
       "5GFO0MsevUVZFAfW52ORt": {
@@ -232,8 +232,8 @@
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1733970034607,
-          "createAt": 1733970008188
+          "updateAt": 1733970034598,
+          "createAt": 1733970008171
         }
       }
     },
@@ -249,7 +249,7 @@
       -1,
       {
         "name": 1733966460762,
-        "comment": 1733966464921
+        "comment": 1733970081397
       }
     ],
     "2s4bRO1Z1rFcVKDA6uRVN": [
