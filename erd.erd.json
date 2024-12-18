@@ -4,8 +4,8 @@
   "settings": {
     "width": 2000,
     "height": 2000,
-    "scrollTop": -908,
-    "scrollLeft": 0,
+    "scrollTop": -1045,
+    "scrollLeft": -388,
     "zoomLevel": 1,
     "show": 431,
     "database": 4,
@@ -218,6 +218,7 @@
           "ssB_2Eg6qm2wyFYXJZllF",
           "wZwjyT6kcG54YqPyIAdWc",
           "JZ-oziZISq7SCjeUAaeyN",
+          "NJLIFT36suhZoNjk5ZrW2",
           "mpnnS67hc_YTnUSXHqiuO",
           "4FDvg2v3G9fi3SB639XFY"
         ],
@@ -229,6 +230,7 @@
           "JZ-oziZISq7SCjeUAaeyN",
           "5o9r2_D8qjRT5dEnalrzX",
           "cLz0FRvP-vGs4QN16c920",
+          "NJLIFT36suhZoNjk5ZrW2",
           "mpnnS67hc_YTnUSXHqiuO",
           "4FDvg2v3G9fi3SB639XFY"
         ],
@@ -241,7 +243,7 @@
           "color": ""
         },
         "meta": {
-          "updateAt": 1734556365931,
+          "updateAt": 1734558329074,
           "createAt": 1734555910047
         }
       },
@@ -1266,6 +1268,26 @@
           "updateAt": 1734556370547,
           "createAt": 1734556365931
         }
+      },
+      "NJLIFT36suhZoNjk5ZrW2": {
+        "id": "NJLIFT36suhZoNjk5ZrW2",
+        "tableId": "Kir02y8WcaF4EChS5ypqF",
+        "name": "user_name",
+        "comment": "",
+        "dataType": "VARCHAR",
+        "default": "",
+        "options": 0,
+        "ui": {
+          "keys": 0,
+          "widthName": 60,
+          "widthComment": 60,
+          "widthDataType": 60,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1734558326165,
+          "createAt": 1734558319726
+        }
       }
     },
     "relationshipEntities": {
@@ -1429,7 +1451,7 @@
             "mpnnS67hc_YTnUSXHqiuO"
           ],
           "x": 956.4519,
-          "y": 1201.6364,
+          "y": 1213.6364,
           "direction": 2
         },
         "meta": {
@@ -1457,7 +1479,7 @@
             "4FDvg2v3G9fi3SB639XFY"
           ],
           "x": 585.4519,
-          "y": 1201.6364,
+          "y": 1213.6364,
           "direction": 1
         },
         "meta": {
@@ -2055,6 +2077,15 @@
       1734556365928,
       -1,
       {}
+    ],
+    "NJLIFT36suhZoNjk5ZrW2": [
+      "tableColumnEntities",
+      1734558319724,
+      -1,
+      {
+        "name": 1734558322498,
+        "dataType": 1734558326164
+      }
     ]
   }
 }
